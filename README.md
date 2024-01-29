@@ -18,5 +18,10 @@ Welcome to the Weather App, a simple and intuitive web application created using
 ## How to Use
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/Devupadhyayaa/weather-APP.git
+   git clone https://github.com/Devupadhyayaa/Weather-APP.git
 2. Replace the placeholder API key in the JavaScript file (`script.js`) with your own OpenWeather API key:
+   ```bash
+   const apiKey = 'YOUR_OPENWEATHER_API_KEY';
+
+## API Key
+- To use this Weather App, you need to sign up on the OpenWeather website and obtain your API key. Replace the placeholder in the JavaScript file with your actual API key.
